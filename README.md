@@ -4,10 +4,10 @@
 * The data consists of 25 variables. Let’s explore these variables in the next slide!
 * Data Source: https://www.kaggle.com/uciml/default-of-credit-card- clients-dataset
 
-# OUTPUT:
+### OUTPUT:
 * default.payment.next.month: Default payment (1=yes, 0=no)
 
-# INPUTS:
+### INPUTS:
 * ID: ID of each client
 * LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
 * SEX: Gender(1=male, 2=female)
